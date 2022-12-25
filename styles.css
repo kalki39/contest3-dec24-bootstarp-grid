@@ -1,0 +1,21 @@
+.right{
+    display: flex;
+    justify-items: center;
+}
+
+.right li{
+    padding: auto;
+    margin: 5px;
+}
+
+h1{
+    padding-left: 1rem;
+    line-height: 77px;  
+font-weight: 200;
+font-size: 64px;
+}
+@media screen and (minnn-width:578px) {
+    .right{
+        position: relative;
+    }
+}
